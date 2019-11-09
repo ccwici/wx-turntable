@@ -1,0 +1,4 @@
+<view class="allCenter">
+<image animation="{{rotateData}}" class="turntable" src="../img/turntable.png"></image>
+<image class="turntable_pointer" src="../img/turntable_pointer.png" bindtap="start"></image>
+</view>

@@ -1,0 +1,13 @@
+.turntable {
+  width: 300px;
+  height: 300px;
+}
+
+.turntable_pointer {
+  width: 50px;
+  height: 80px;
+  position: absolute;
+  left: 125px;
+  top: 95px;
+  z-index: 10;
+}
